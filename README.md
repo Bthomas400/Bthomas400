@@ -1,6 +1,7 @@
 # Brian Thomas
 
 📍 San Diego, CA | 📧 [brian.eugene47@gmail.com](mailto:brian.eugene47@gmail.com) | [LinkedIn](https://www.linkedin.com/in/brian-thomas400/) | [GitHub](https://github.com/Bthomas400) | [Website](https://portfolio-website-brian-thomas-projects-393faabc.vercel.app/)
+
 👋 Hi there! I’m Brian, a Data Analyst with a robust background in psychology and a deep passion for utilizing data to solve complex problems and drive meaningful insights. With a Bachelor’s degree in Biological Psychology from UC Davis and a professional certification in Data Analysis, I’ve transitioned into the tech industry where I blend analytical rigor with a keen understanding of human behavior to enhance business solutions.
 
 ## What I Do:
