@@ -9,11 +9,6 @@
 - **Machine Learning**: Proficient in machine learning frameworks such as scikit-learn and TensorFlow, I develop predictive models to help businesses make informed decisions based on statistical patterns and predictions.
 - **Cross-Functional Collaboration**: Experienced in roles that require interfacing with diverse teams, I bring a collaborative approach to data projects, ensuring that insights lead to practical outcomes.
 
-## Projects Highlight:
-- **Ride Sharing Data Analysis**: Using SQL and Python to optimize service delivery for a leading ride-sharing platform.
-- **Consumer Behavior Analysis**: Conducted an exploratory data analysis on Instacart’s shopping habits, leveraging data visualization to derive insights that influence marketing strategies.
-- **Oil Reserve Predictive Modeling**: Applied linear regression models to predict potential oil reserves, enhancing financial planning and risk assessment.
-
 ## 🌱 I’m currently learning:
 Advanced techniques in machine learning, focusing on deep learning and its application in real-world problems.
 
